@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
 /**
- * Name: UserInput.java
- * Purpose: To use the Scanner class to get input
+ * Name: TallestPerson.java
+ * Purpose: To determine who is the tallest person
  * Student Name: Insert student name
  * Student Number: 12345678
  */
@@ -38,7 +38,7 @@ public class TallestPerson {
 
         //Prompt person 1 for their name
         System.out.print("Please enter the name for person 1: ");
-        namePerson1 = inScan.nextLine();
+        namePerson1 = inScan.nextLine();  //EasyIn.getString(); 
 
         //Prompt person 2 for their name
         System.out.print("Please enter the name for person 2: ");
@@ -50,7 +50,7 @@ public class TallestPerson {
         //Prompt for person 1's height in feet
         System.out.print("Please enter "+namePerson1 +
                 "'s height in feet: ");
-        p1HeightInFeet = inScan.nextInt();
+        p1HeightInFeet = inScan.nextInt();  //EasyIn.getInt()
 
         //Prompt for person 1's height in inches
         System.out.print("Please enter "+namePerson1 +
@@ -83,11 +83,11 @@ public class TallestPerson {
 
         System.out.print("\n");
 
-        //Calculate height in inches for both persons
+        //Calculate total height in inches for both persons
         //1 foot = 12 inches
-        p1TotalHeightInches = p1HeightInFeet * 12
+        p1TotalHeightInches = (p1HeightInFeet * 12)
                 + p1HeightInInches;
-        p2TotalHeightInches = p2HeightInFeet * 12
+        p2TotalHeightInches = (p2HeightInFeet * 12)
                 + p2HeightInInches;
 
 
