@@ -6,7 +6,7 @@ import java.util.Scanner;
  * Student Name: Insert student name
  * Student Number: 12345678
  */
-public class Main {
+public class TallestPerson {
 
     public static void main(String[] args) {
         //Declare a scanner object 
