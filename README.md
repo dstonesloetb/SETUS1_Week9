@@ -8,7 +8,8 @@
 +[If Example](If.java)
 +[Else Example](Else.java)
 +[Earth Quake Example](EarthQuake.java)
-+[Bank Charges Example](BankCharges1.java)
++[Bank Charges 1 Example](BankCharges1.java)
++[Bank Charges 2 Example](BankCharges2.java)
 
 ## Sample Lab Example
 +[Tallest Person Example](TallestPerson.java)
