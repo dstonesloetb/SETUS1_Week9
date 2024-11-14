@@ -10,6 +10,7 @@
 +[Earth Quake Example](EarthQuake.java)
 +[Bank Charges 1 Example](BankCharges1.java)
 +[Bank Charges 2 Example](BankCharges2.java)
++[Coffee Shop Exercise](CoffeeShopDiscount.java)
 
 ## Sample Lab Example
 +[Tallest Person Example](TallestPerson.java)
