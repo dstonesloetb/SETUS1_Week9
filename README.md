@@ -15,6 +15,8 @@
 
 ## Switch
 +[Switch Example](Switch.java)
++[More Switch Examples](SwitchExamples.java)
++[Enumerated Type Switch Example](EnumSwitchExample.java)
 +[Water Break Example](WaterBreak.java)
 +[Matrial Status Switch Example](MartialStatusSwitch.java)
 
