@@ -15,6 +15,7 @@
 
 ## Sample Lab Example
 +[Tallest Person Example](TallestPerson.java)
++[Movie Ticket Example](MovieTicket.java)
 
 ## Switch
 +[Switch Example](Switch.java)
