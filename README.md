@@ -1,7 +1,7 @@
 # SETUS1_Week9
 
 ## Ternary Conditional Operator
-+[Fun Ternary Examples(Ternary.java)
++[Fun Ternary Examples](Ternary.java)
 +[Conditional Operator Example](CoditionalOperator.java)
 +[Busted Speed Camera Example](Busted.java)
 
