@@ -1,10 +1,12 @@
 # SETUS1_Week9
 
 ## Ternary Conditional Operator
++[Fun Ternary Examples(Ternary.java)
 +[Conditional Operator Example](CoditionalOperator.java)
 +[Busted Speed Camera Example](Busted.java)
 
 ## If-Else
++[Fun If Examples](FunIf.java)
 +[If Example](If.java)
 +[Else Example](Else.java)
 +[Earth Quake Example](EarthQuake.java)
